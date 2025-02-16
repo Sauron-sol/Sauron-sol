@@ -35,15 +35,19 @@ Currently pursuing a Master's degree at Epitech Technology, specializing in Cybe
    - Collection of cybersecurity-oriented tools for educational purposes
    - Technologies: Python, HTML, Security Tools
 
-3. [**Smart Contract Lottery**](https://github.com/Sauron-sol/foundry-smart-contract-lottery)
+3. [**s0P0wn3d**](https://github.com/Sauron-sol/s0P0wn3d)
+   - Advanced penetration testing toolkit with file transfer and persistence capabilities
+   - Technologies: Python, Discord API, System Administration, Encryption
+
+4. [**Consolidate Investigate Administrate**](https://github.com/Sauron-sol/Consolidate-Investigate-Administrate)
+   - Penetration testing on deprecated web application
+   - Technologies: BurpSuite, Docker, Gitlab, Semgrep, Zap
+
+5. [**Smart Contract Lottery**](https://github.com/Sauron-sol/foundry-smart-contract-lottery)
    - Decentralized lottery system on Ethereum blockchain
    - Technologies: Solidity, Foundry, Smart Contracts
-  
-4. [**Foundry NFT Project**](https://github.com/Sauron-sol/Foundry-NFT-f23)
-   - Collection of smart contracts for NFTs on Ethereum
-   - Technologies: Solidity, NFT, Foundry
 
-5. [**OhLeRat**](https://github.com/Sauron-sol/OhLeRat)
+6. [**OhLeRat**](https://github.com/Sauron-sol/OhLeRat)
    - Innovative travel booking web application
    - Stack: React, TypeScript, Tailwind CSS, Supabase, Stripe
 
