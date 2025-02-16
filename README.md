@@ -36,8 +36,8 @@ Currently pursuing a Master's degree at Epitech Technology, specializing in Cybe
    - Technologies: Python, HTML, Security Tools
 
 3. [**s0P0wn3d**](https://github.com/Sauron-sol/s0P0wn3d)
-   - Advanced penetration testing toolkit with file transfer and persistence capabilities
-   - Technologies: Python, Discord API, System Administration, Encryption
+   - Educational cybersecurity project demonstrating advanced red teaming techniques. An educational virus.
+   - Technologies: Python, PyInstaller
 
 4. [**Consolidate Investigate Administrate**](https://github.com/Sauron-sol/Consolidate-Investigate-Administrate)
    - Penetration testing on deprecated web application
@@ -47,9 +47,6 @@ Currently pursuing a Master's degree at Epitech Technology, specializing in Cybe
    - Decentralized lottery system on Ethereum blockchain
    - Technologies: Solidity, Foundry, Smart Contracts
 
-6. [**OhLeRat**](https://github.com/Sauron-sol/OhLeRat)
-   - Innovative travel booking web application
-   - Stack: React, TypeScript, Tailwind CSS, Supabase, Stripe
 
 ### 💻 Technical Stack
 
