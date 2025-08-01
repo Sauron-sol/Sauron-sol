@@ -4,26 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Sauron-sol?label=Follow&style=social)](https://github.com/Sauron-sol)
 
-Currently pursuing a Master's degree at Epitech Technology, specializing in Cybersecurity. Working as a DevSecOps at Orange, focusing on security integration in CI/CD pipelines and developing security automation tools. Passionate about Web3 security, I actively participate in smart contract audits and vulnerability research across various platforms.
-
-### 🔭 Professional Experience
-
-- 🔒 **DevSecOps Engineer** @ *Orange* (Oct. 2023 - Present)
-  - Security integration in CI/CD pipelines
-  - Implementation of automated SAST and DAST testing
-  - Container orchestration with Docker and Kubernetes
-  - Setup of vulnerability scans with Nuclei
-  - Automated penetration testing with Katana and SQLMap
-
-- 🔍 **Automated Footprint Assessment** @ *Amadeus* (Apr. 2023 - Aug. 2023)
-  - Development of automated vulnerability detection tools
-  - Asset analysis and classification
-  - Scan process automation
-
-- 💻 **Cybersecurity Developer** @ *Alithya* (Oct. 2022 - Mar. 2023)
-  - Fraud detection software development
-  - Real-time data processing
-  - Distributed architecture implementation
+Working as a DevSecOps, focusing on security integration in CI/CD pipelines and developing security automation tools. Passionate about Web3 security, I actively participate in smart contract audits and vulnerability research across various platforms.
 
 ### 🚀 Main Projects
 
@@ -58,11 +39,6 @@ Currently pursuing a Master's degree at Epitech Technology, specializing in Cybe
 🗄️ Databases       │ MongoDB, CassandraDB, Elastic Search
 📊 Big Data        │ Apache Spark, Kafka
 ```
-
-### 🎓 Education
-
-- **Master's in Network and Systems Architecture** @ *EPITECH TECHNOLOGY* (2023-2025)
-- **Bachelor's in Information Technology** @ *EPITECH TECHNOLOGY* (2020-2023)
 
 ### 🌍 Languages
 
