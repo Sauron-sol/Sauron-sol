@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Sauron-sol
 
-## 🛡️ Cybersecurity Engineer | DevSecOps | Web3 Security Researcher
+## 🛡️ Cybersecurity Engineer | SecOps | Web3 Security Researcher
 
 [![GitHub followers](https://img.shields.io/github/followers/Sauron-sol?label=Follow&style=social)](https://github.com/Sauron-sol)
 
-Working as a DevSecOps, focusing on security integration in CI/CD pipelines and developing security automation tools. Passionate about Web3 security, I actively participate in smart contract audits and vulnerability research across various platforms.
+Working as a SecOps at Deblock, focusing on security integration in CI/CD pipelines and developing security automation tools. Passionate about Web3 security, I actively participate in smart contract audits and vulnerability research across various platforms.
 
 ### 🚀 Main Projects
 
