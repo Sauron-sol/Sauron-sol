@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Sauron-sol
 
-## 🛡️ Cybersecurity Engineer | SecOps | Web3 Security Researcher
+## 🛡️ Cybersecurity Engineer | SecOps |
 
 [![GitHub followers](https://img.shields.io/github/followers/Sauron-sol?label=Follow&style=social)](https://github.com/Sauron-sol)
-
-Working as a SecOps at Deblock, focusing on security integration in CI/CD pipelines and developing security automation tools. Passionate about Web3 security, I actively participate in smart contract audits and vulnerability research across various platforms.
 
 ### 🚀 Main Projects
 
@@ -43,8 +41,7 @@ Working as a SecOps at Deblock, focusing on security integration in CI/CD pipeli
 ### 🌍 Languages
 
 - 🇫🇷 French (Native)
-- 🇬🇧 English (Professional - B2)
-- 🇩🇪 German (Intermediate - A2)
+- 🇬🇧 English (Professional - C1)
 
 ### 📫 Contact
 
