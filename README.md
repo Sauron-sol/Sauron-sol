@@ -6,23 +6,27 @@
 
 ### 🚀 Main Projects
 
-1. [**Security Review Portfolio**](https://github.com/Sauron-sol/Security_Review_Portfolio)
+1. [**OWASP Agentic Lab**](https://github.com/Sauron-sol/OWASP-Agentic-Lab)
+   - Five OWASP Agentic Top 10 attacks on an AI agent, each with a working control and a test
+   - Technologies: TypeScript, Vitest, Agentic Security
+
+2. [**Security Review Portfolio**](https://github.com/Sauron-sol/Security_Review_Portfolio)
    - Portfolio of smart contract security audits
    - Expertise in Web3 security and Solidity
 
-2. [**CyberToolBox**](https://github.com/Sauron-sol/CyberToolBox)
+3. [**CyberToolBox**](https://github.com/Sauron-sol/CyberToolBox)
    - Collection of cybersecurity-oriented tools for educational purposes
    - Technologies: Python, HTML, Security Tools
 
-3. [**s0P0wn3d**](https://github.com/Sauron-sol/s0P0wn3d)
+4. [**s0P0wn3d**](https://github.com/Sauron-sol/s0P0wn3d)
    - Educational cybersecurity project demonstrating advanced red teaming techniques. An educational virus.
    - Technologies: Python, PyInstaller
 
-4. [**Consolidate Investigate Administrate**](https://github.com/Sauron-sol/Consolidate-Investigate-Administrate)
+5. [**Consolidate Investigate Administrate**](https://github.com/Sauron-sol/Consolidate-Investigate-Administrate)
    - Penetration testing on deprecated web application
    - Technologies: BurpSuite, Docker, Gitlab, Semgrep, Zap
 
-5. [**Smart Contract Lottery**](https://github.com/Sauron-sol/foundry-smart-contract-lottery)
+6. [**Smart Contract Lottery**](https://github.com/Sauron-sol/foundry-smart-contract-lottery)
    - Decentralized lottery system on Ethereum blockchain
    - Technologies: Solidity, Foundry, Smart Contracts
 
