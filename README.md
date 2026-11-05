@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sauron-sol
 
-## 🛡️ Cybersecurity Engineer — founder of [CleanIssue](https://cleanissue.io)
+## 🛡️ Cybersecurity Engineer — [CleanIssue](https://cleanissue.io)
 
 I red-team AI agents and MCP servers: authorized testing for clients, and coordinated vulnerability disclosure on open-source agent tooling. → **[cleanissue.io](https://cleanissue.io)**
 
