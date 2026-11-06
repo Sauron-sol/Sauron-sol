@@ -6,6 +6,10 @@ I red-team AI agents and MCP servers: authorized testing for clients, and coordi
 
 [![GitHub followers](https://img.shields.io/github/followers/Sauron-sol?label=Follow&style=social)](https://github.com/Sauron-sol)
 
+### 🔬 Security research
+
+- [GHSA-9ppf-38v8-h97v](https://github.com/AmrDab/clawdcursor/security/advisories/GHSA-9ppf-38v8-h97v) — clawdcursor (MCP desktop-control server): PowerShell injection, High, fixed in 1.5.26
+
 ### 🚀 Main Projects
 
 1. [**OWASP Agentic Lab**](https://github.com/Sauron-sol/OWASP-Agentic-Lab)
@@ -20,15 +24,11 @@ I red-team AI agents and MCP servers: authorized testing for clients, and coordi
    - Collection of cybersecurity-oriented tools for educational purposes
    - Technologies: Python, HTML, Security Tools
 
-4. [**s0P0wn3d**](https://github.com/Sauron-sol/s0P0wn3d)
-   - Educational cybersecurity project demonstrating advanced red teaming techniques. An educational virus.
-   - Technologies: Python, PyInstaller
-
-5. [**Consolidate Investigate Administrate**](https://github.com/Sauron-sol/Consolidate-Investigate-Administrate)
+4. [**Consolidate Investigate Administrate**](https://github.com/Sauron-sol/Consolidate-Investigate-Administrate)
    - Penetration testing on deprecated web application
    - Technologies: BurpSuite, Docker, Gitlab, Semgrep, Zap
 
-6. [**Smart Contract Lottery**](https://github.com/Sauron-sol/foundry-smart-contract-lottery)
+5. [**Smart Contract Lottery**](https://github.com/Sauron-sol/foundry-smart-contract-lottery)
    - Decentralized lottery system on Ethereum blockchain
    - Technologies: Solidity, Foundry, Smart Contracts
 
@@ -36,6 +36,7 @@ I red-team AI agents and MCP servers: authorized testing for clients, and coordi
 ### 💻 Technical Stack
 
 ```text
+🤖 AI security     │ MCP servers, AI agents, prompt injection, agentic red teaming
 🔒 Security        │ Nuclei, Katana, SQLMap, SAST, DAST, Pentest
 🛠️ DevOps          │ Docker, Kubernetes, GitLab CI, Jenkins
 🌐 Web             │ React, TypeScript, Tailwind CSS
